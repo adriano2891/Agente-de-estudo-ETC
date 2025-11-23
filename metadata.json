@@ -1,0 +1,5 @@
+{
+  "name": "Agente de estudo ETC",
+  "description": "An intelligent study assistant for the ETC Administrator exam, featuring active recall, spaced repetition, and AI-driven quizzes.",
+  "requestFramePermissions": []
+}
